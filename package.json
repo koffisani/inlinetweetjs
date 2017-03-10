@@ -12,5 +12,8 @@
     "start": "gulp"
   },
   "author": "Ire Aderinokun",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  }
 }
